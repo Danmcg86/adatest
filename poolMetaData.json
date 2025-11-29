@@ -1,6 +1,7 @@
- {
-> "name": "MOStaking",
-> "description": "MOStaking Pool",
-> "ticker": "MOST",
-> "homepage": "https://mostaking.com"
-> }
+{
+  "name": "most",
+  "ticker": "MOSTT",
+  "description": "MOST Testnet for Midnight",
+  "homepage": "http://www.mostaking.com",
+  "nonce": "1764355801"
+}
